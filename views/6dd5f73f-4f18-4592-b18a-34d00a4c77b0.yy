@@ -1,0 +1,30 @@
+{
+    "id": "6dd5f73f-4f18-4592-b18a-34d00a4c77b0",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "6dd5f73f-4f18-4592-b18a-34d00a4c77b0",
+    "children": [
+        "a1202530-809d-4401-859e-a3dd40300407",
+        "7c2761dd-015f-41e9-8bdd-3078115b94e4",
+        "757b289c-441e-4007-819c-16c0ce6b4b43",
+        "08fc9f1c-46e6-47e9-88c0-b475c26b13eb",
+        "7a8b1d27-596e-4d99-af01-7b7ca04e17bf",
+        "385edb6d-c3fb-4936-9143-c054653708ed",
+        "7e9decca-96bc-44ec-a1b8-6792ecc621a0",
+        "9703be47-06d4-43f0-956a-feea44482a4c",
+        "34119a7d-e8ba-436b-8f58-cea209b26412",
+        "02830eb3-a9b1-4bd2-bab3-ec9bf8328141",
+        "56f3ee44-a771-4cd1-ba27-6fd011e11312",
+        "0f907f56-633c-49be-acb6-49d6d91c2aa6",
+        "6502b3c5-97cc-4b6f-bf91-1193fc7ec0d6",
+        "eb191a01-97d4-40cb-9c9a-fcd6d33f9461",
+        "748be882-67a5-4dc2-92d7-335c9c0107ff",
+        "9416bbf1-d906-4ee3-90d2-cc8480cc6f73",
+        "daa50c01-c8aa-4bf9-adcf-ccf9200c1359",
+        "59ce6d6e-604b-491a-b577-8cbc3cf40c6b"
+    ],
+    "filterType": "GMPath",
+    "folderName": "paths",
+    "isDefaultView": false,
+    "localisedFolderName": "ResourceTree_Paths"
+}
