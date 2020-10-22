@@ -1,3 +1,4 @@
+//same as enemystate hitstun_L, but for the right side
 if (sprite_index != senemy1_hittopright)
 {
 	sprite_index = senemy1_hittopright;	
