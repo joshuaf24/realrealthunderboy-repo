@@ -1,3 +1,8 @@
+//This is a copy of the other animation end function.  I made it because when I was just starting out
+//I thought I would need a separate animation end function for the player and the enemy, but now I
+//realize I don't.  However I'm scared to get rid of it because I think I might have a couple functions 
+//That use it and I don't wanna break the game rn
+
 var _sprite=sprite_index;
 var _image=image_index;
 if(argument_count > 0)   _sprite=argument[0];

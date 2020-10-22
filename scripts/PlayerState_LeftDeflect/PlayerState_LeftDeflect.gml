@@ -1,3 +1,4 @@
+//this is the same as the right defelct, just with the left side
 if (sprite_index != spleftdeflect)
 {
 	sprite_index = spleftdeflect;

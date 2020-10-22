@@ -3,7 +3,7 @@ randomize();
 switch(global.estate)
 {
 	case ENEMYSTATE.VULNERABLE_STRAY: EnemyState_vulnerable_stray(); break;
-	case ENEMYSTATE.HIT_RIGHT_STRAY: EnemyState_hit_right_stray(); break;
+	//case ENEMYSTATE.HIT_RIGHT_STRAY: EnemyState_hit_right_stray(); break;
 	case ENEMYSTATE.RIGHT_BLOCK: EnemyState_RightBlock(); break;
 	case ENEMYSTATE.LEFT_BLOCK: EnemyState_LeftBlock(); break;
 	case ENEMYSTATE.HITSTUN_L: EnemyState_Hitstun_L(); break;

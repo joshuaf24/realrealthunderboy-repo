@@ -1,3 +1,5 @@
+//This is what happens when the enemy loses all of his hp
+
 if (sprite_index != senemy1_downed)
 {
 	ko = ko - 1;

@@ -1,3 +1,5 @@
+//same as left block but on the other side
+
 if (sprite_index != senemy1_rightblock)
 {
 	sprite_index = senemy1_rightblock;

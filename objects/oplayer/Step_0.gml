@@ -15,7 +15,6 @@ switch(global.state)
 	case PLAYERSTATE.LEFT_ATTACK_A: PlayerState_LeftAttackA(); break;
 	//case PLAYERSTATE.LEFT_ATTACK_B: PlayerState_LeftAttackB(); break;
 	case PLAYERSTATE.RIGHT_ATTACK_A: Playerstate_RightAttackA(); break;
-	case PLAYERSTATE.RIGHT_ATTACK_B: Playerstate_RightAttackB(); break;
 	case PLAYERSTATE.RIGHT_BLOCK: PlayerState_RightBlock(); break;
 	case PLAYERSTATE.MID_BLOCK: PlayerState_MidBlock(); break;
 	case PLAYERSTATE.MID_DEFLECT: PlayerState_MidDeflect(); break;
@@ -29,8 +28,8 @@ switch(global.state)
 	case PLAYERSTATE.LEFT_BLOCKED: PlayerState_LeftBlocked(); break;
 	case PLAYERSTATE.RIGHT_BLOCKED: PlayerState_RightBlocked(); break;
 	case PLAYERSTATE.CROSS: PlayerState_Cross(); break;
-	case PLAYERSTATE.RIMPACT: PlayerState_Rimpact(); break;
-	case PLAYERSTATE.LIMPACT: PlayerState_Limpact(); break;
+//	case PLAYERSTATE.RIMPACT: PlayerState_Rimpact(); break;
+//	case PLAYERSTATE.LIMPACT: PlayerState_Limpact(); break;
 	case PLAYERSTATE.VULNERABLER: PlayerState_VulnerableR(); break;
 }
 

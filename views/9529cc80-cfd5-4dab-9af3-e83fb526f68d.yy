@@ -6,22 +6,11 @@
     "children": [
         "fef92546-2c51-498f-8714-1381a8c104a3",
         "b5b39a49-5c68-4f78-88b9-24c6873ce3d4",
-        "32a08d20-dbe4-4e8e-89b0-5a251029f322",
         "36e048ce-bf37-456d-91cd-66e1c0e703f7",
         "6deafa60-80e4-4261-9271-a008ddda1f49",
-        "9a4bd5ff-89f0-4198-8d18-e92d5e505776",
         "939b54c5-df3b-4939-82b1-d5ead2ebd549",
         "5c39f31b-e7b9-45cb-a33b-210db06ac8e9",
-        "0c4b8109-c8fd-47b0-899c-dba1d7ce6cfb",
-        "10ee8dfd-dfb3-4907-9784-b4501feac3ea",
-        "c43fe137-8b45-4883-b244-2aea29a8d2ba",
-        "aaf765e8-efba-4c33-a2cf-c281dfe664a1",
-        "5d1b9ec2-6237-42eb-a61c-84dd14e83adc",
-        "7da3c87f-d70d-413b-b068-c0df2a01b671",
-        "0ac26af7-7774-4645-94ec-781170f03458",
-        "f0e7f1cf-a3e5-483a-bea5-9b482c2e78ef",
-        "3034428b-144b-46e6-b9f9-544982dd9277",
-        "2ceab736-c51b-4115-b959-7c6097fa33c7"
+        "0c4b8109-c8fd-47b0-899c-dba1d7ce6cfb"
     ],
     "filterType": "GMScript",
     "folderName": "enemy1",

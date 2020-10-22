@@ -1,3 +1,6 @@
+//the dodge does not work atm.  I will work on fixing it because it worked at one point and then I broke it
+//so it's my responsibility
+
 if (sprite_index != sprightdodge)
 {
 	

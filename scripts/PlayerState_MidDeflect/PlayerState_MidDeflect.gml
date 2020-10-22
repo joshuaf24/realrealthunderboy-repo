@@ -1,3 +1,4 @@
+//same as the other two deflects, but in the middle
 if (sprite_index != spmiddleblock)
 {
 	sprite_index = spmiddleblock;

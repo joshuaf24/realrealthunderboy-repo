@@ -1,3 +1,4 @@
+//same as right block, except for the left
 if(sprite_index != spleftblock)
 {
 	sprite_index = spleftblock;

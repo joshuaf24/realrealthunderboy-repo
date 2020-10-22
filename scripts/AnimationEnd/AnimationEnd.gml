@@ -1,3 +1,9 @@
+//This is a function that you have to call any time you need to check whether or not an animation
+//is finished.  You might be thinking "oh, well why can't you just check that by looking at 
+//which frame the animation is on" and you would be right logically you should be able to do that
+//but it doesn't work consistently so just use this.  It's good for when you need to switch player 
+//and enemy states
+
 var _sprite=sprite_index;
 var _image=image_index;
 if(argument_count > 0)   _sprite=argument[0];
